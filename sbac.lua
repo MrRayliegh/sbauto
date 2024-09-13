@@ -7,5 +7,6 @@ return {
     52177,   -- papachulo
     554244,  -- Dispo
     139580,  -- apacoba
-    61208    -- SFA7
+    61208,    -- SFA7
+    11070 -- !Jio07 duniaexpres
 }
