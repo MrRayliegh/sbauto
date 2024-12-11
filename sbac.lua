@@ -10,5 +10,6 @@ return {
     61208,    -- SFA7
     11070, -- !Jio07 duniaexpres
     841781, -- xekuyy
-    764886 -- ERFA
+    764886, -- ERFA
+    496448 --Meldis
 }
