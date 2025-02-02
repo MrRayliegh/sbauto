@@ -12,5 +12,6 @@ return {
     841781, -- xekuyy
     764886, -- ERFA
     496448, --Meldis
-    220201 -- MSHADOW
+    220201, -- MSHADOW
+    490194 -- MATH / algelo
 }
