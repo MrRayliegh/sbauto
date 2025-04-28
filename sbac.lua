@@ -19,5 +19,6 @@ return {
     164208, -- yanzy
     570661,774111, -- Jeremy max
     222757, -- Sem
-    717356 -- KingSikma
+    717356, -- KingSikma
+    367868 -- EMMO
 }
